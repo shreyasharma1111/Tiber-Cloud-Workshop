@@ -1,0 +1,9 @@
+REQUIREMENTS:
+
+Python
+Scikit-Learn (for Logistic Regression and KNN Regressor)
+Streamlit (for web app interface)
+Pandas (for data handling)
+NumPy (for array manipulation)
+Matplotlib (for data visualization)
+Seaborn (for data visualization)
